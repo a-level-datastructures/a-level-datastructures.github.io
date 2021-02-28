@@ -25,9 +25,7 @@ All queues have the following features in common:
 ```python
 # Enqueue Method using OOP
 def Enqueue(self, data):
-    # If the rear pointer is equal to the size of the queue
-    # The queue must be full.
-    if self.rear == self.size:
+    if self.isFull():
         print("The Queue is full")
     # The queue is not full, so we increment the rear pointer
     # to point to the next available free space and add the
@@ -40,14 +38,12 @@ def Enqueue(self, data):
 ```python
 # Dequeue Method using OOP
 def Dequeue(self):
-    # If the rear pointer is greater than or equal to the front pointer
-    # the queue must be empty.
-    if self.rear >= self.front:
+    if self.isEmpty():
         print("The Queue is empty")
     # Otherwise, if the queue is not empty, there must be an element to
     # return. We do this by returning the element at the index that front
     # points to, and then incrementing front to point to the next element
-    # at the head of the queue.
+    # at the front of the queue.
     else:
         return self.queue[self.front]
         front += 1
