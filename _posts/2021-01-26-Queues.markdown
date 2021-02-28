@@ -21,6 +21,30 @@ All queues have the following features in common:
   * *Rear*: This pointer shows where the rear of the queue is *Enqueue* is called. 
 ---
 ## Linear Queues
+**Testing if the queue is Empty**
+```python
+# We keep track of a size variable to conveniently determine whether
+# our queue is empty or not.
+def isEmpty(self):
+    if self.size == 0:
+       return True
+    else:
+       return False
+```
+**Testing if the queue is Full**
+```python
+# We keep track of a size variable to conveniently determine whether
+# our queue is full or not. 
+def isFull(self):
+    # MAX_SIZE is a constant we use to determine the maximum size of
+    # our queue. This is declared and used when we instantiate the 
+    # object to determine the size of the list we use to represent
+    # our queue.
+    if self.size == MAX_SIZE:
+       return True
+    else:
+       return False
+```
 **Enqueue**
 ```python
 # Enqueue Method using OOP
