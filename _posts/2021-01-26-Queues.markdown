@@ -11,7 +11,7 @@
 ---
 ## Common Features of Queues
 All queues have the following features in common:
-* They are all **F**irst **i**n **F**irst **O**ut **(FIFO)** datastructures
+* They are all **F**irst **i**n **F**irst **O**ut **(FIFO)** data structures
 * An *Enqueue* method:
   * This method takes a data item and adds it to the rear of the queue
 * A *Dequeue* method:
