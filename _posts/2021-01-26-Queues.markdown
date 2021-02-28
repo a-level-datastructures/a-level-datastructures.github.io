@@ -1,9 +1,9 @@
 ## Lesson Aims:
 * Be able to describe and apply the following to linear queues, circular queues and priority queues:
-..* add an item
-..* remove an item
-..* test for an empty queue
-..* test for a full queue
+  * add an item
+  * remove an item
+  * test for an empty queue
+  * test for a full queue
 * Be able to:
-..* represent a queue in a programming languange without using the built in queue type
-..* use a queue in simple contexts
+  * represent a queue in a programming languange without using the built in queue type
+  * use a queue in simple contexts
