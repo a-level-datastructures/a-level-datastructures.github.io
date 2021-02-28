@@ -113,6 +113,7 @@ After you have done that:
 * Use your queue to store the names of 3 people you know
 * Remove two of those names
 * Add another two names
+
 ---
 ## Congratulations!
 Now you can:
