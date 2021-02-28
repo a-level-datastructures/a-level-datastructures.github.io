@@ -1,0 +1,30 @@
+### :evergreen_tree: Lesson Aims :evergreen_tree:
+* Know that a tree is a connected, undirected graph with no cycles.
+* Know that a binary tree is a rooted tree in which each node has at most two children.
+* Be familiar with typical uses for rooted trees
+* Know that a rooted tree is a tree in which one vertex has been designated as the root. 
+* A rooted tree has parent-child relationships between nodes.
+* The root is the only node with no parent and all other nodes are descendants of the root.
+
+## Rooted Trees
+
+Rooted Trees have one vertex designated as the root. All the other vertexes are implicity directed away from the root.
+This video here will give you a visual overview of what this definition actually means.
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=ihF26-HV5Mw
+" target="_blank"><img src="http://img.youtube.com/vi/ihF26-HV5Mw/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+---
+
+## Parent Child Relationship
+* In the below image you can clearly see the parent child relationship:
+  * 2, which is at the root of the tree, has all the other nodes as it's descendants.
+  * 2 clearly doesn't have any parents; nothing points to it!
+  * The leafs `[2, 10, 5, 11, 4]` at the bottom of the tree have no descendants.
+  * Picturing the below image as a 'family tree' makes it much easier to picture the parent child relationship.
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Tree_%28computer_science%29.svg/1200px-Tree_%28computer_science%29.svg.png" alt="Tree Diagram" width="200"/>
+
+Now you know:
+- [x] that a rooted tree is a tree in which one vertex has been designated as the root.
+- [x] a rooted tree has parent-child relationships between nodes.
+- [x] the root is the only node with no parent and all other nodes are descendants of the root.
