@@ -7,4 +7,7 @@
 * Be able to:
   * represent a queue in a programming languange without using the built in queue type
   * use a queue in simple contexts
+
+---
+## Linear Queues
 ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
