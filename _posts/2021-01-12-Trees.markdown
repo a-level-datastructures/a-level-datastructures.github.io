@@ -1,4 +1,4 @@
-### :evergreen_tree: Lesson Aims :evergreen_tree:
+### Lesson Aims
 * Know that a tree is a connected, undirected graph with no cycles.
 * Know that a binary tree is a rooted tree in which each node has at most two children.
 * Be familiar with typical uses for rooted trees
