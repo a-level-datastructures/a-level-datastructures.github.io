@@ -18,6 +18,21 @@ All queues have the following features in common:
   * This method takes no arguments and removes the item that is at the front of the queue
 * They all have two pointers
   * *Front*: This pointer shows the item to remove when *Dequeue* is called
-  * *Rear*: This pointer shows the next available free space to add in a data item when *Enqueue* is called 
+  * *Rear*: This pointer shows where the rear of the queue is *Enqueue* is called. 
 ---
 ## Linear Queues
+**Enqueue**
+```python
+-- Enqueue Method using OOP
+def Enqueue(self, data):
+    -- If the rear pointer is equal to the size of the queue
+    -- The queue must be full.
+    if self.rear == self.size:
+        print("The Queue is full")
+    -- The queue is not full, so we increment the rear pointer
+    -- to point to the next available free space and add the
+    -- data item.
+    else:
+        self.rear += 1
+        self.queue[rear]
+```
