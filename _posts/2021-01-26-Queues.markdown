@@ -9,5 +9,10 @@
   * use a queue in simple contexts
 
 ---
-## Linear Queues
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+## Common Features of Queues
+All queues have the following features in common:
+* They are all **F**irst **i**n **F**irst **O**ut **(FIFO)** datastructures
+* An *Enqueue* method:
+  * This method takes a data item and adds it to the rear of the queue
+* A *Dequeue* method:
+  * This method takes no arguments and removes the item that is at the front of the queue
