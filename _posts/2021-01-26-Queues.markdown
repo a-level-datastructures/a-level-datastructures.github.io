@@ -77,3 +77,26 @@ def Dequeue(self):
 - [x] remove an item from a linear queue
 - [x] test for an empty linear queue
 - [x] test for a full linear queue  
+
+---
+## Priority Queues
+Testing if the Queue is empty or full is the same as for a Linear Queue. 
+
+**Enqueue**
+```python
+# Enqueue Method using OOP
+def Enqueue(self, data):
+    if self.isFull():
+        print("The Queue is full")
+    # The key difference from a linear queue here is that everytime 
+    # we add an item, we call sort(). This ensures that the queue
+    # remains sorted by priority.
+    else:
+        self.rear += 1
+        self.queue[self.rear]
+        self.queue.sort()
+```
+**Dequeue**
+The Dequeue method will be the same. This is because the queue will always
+be sorted in accordance with the priorities as we call sort everytime an
+item is added to the queue.
