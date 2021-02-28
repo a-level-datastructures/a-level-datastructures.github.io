@@ -15,7 +15,7 @@ All queues have the following features in common:
 * An *Enqueue* method:
   * This method takes a data item and adds it to the rear of the queue
 * A *Dequeue* method:
-  * This method takes no arguments and removes the item that is at the front of the queue
+  * This method takes no arguments and removes the item that is at the front of the queue and returns it
 * They all have two pointers
   * *Front*: This pointer shows the item to remove when *Dequeue* is called
   * *Rear*: This pointer shows where the rear of the queue is *Enqueue* is called. 
@@ -34,5 +34,21 @@ def Enqueue(self, data):
     # data item.
     else:
         self.rear += 1
-        self.queue[rear]
+        self.queue[self.rear]
+```
+**Dequeue**
+```python
+# Dequeue Method using OOP
+def Dequeue(self):
+    # If the rear pointer is greater than or equal to the front pointer
+    # the queue must be empty.
+    if self.rear >= self.front:
+        print("The Queue is empty")
+    # Otherwise, if the queue is not empty, there must be an element to
+    # return. We do this by returning the element at the index that front
+    # points to, and then incrementing front to point to the next element
+    # at the head of the queue.
+    else:
+        return self.queue[self.front]
+        front += 1
 ```
