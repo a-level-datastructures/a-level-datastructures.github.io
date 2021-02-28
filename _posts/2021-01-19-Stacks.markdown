@@ -4,12 +4,14 @@
   * pop
   * peek 
   * test for empty stack
-  * test for  full stack
+  * test for full stack
 
 ---
 Since you are going to implement all the other stack methods in the worksheet, I am only going to show you how to implement **Full** and **Peek** here.
+
 **Full**
-The **Full** method returns `True` if and only if the Stack is full.
+
+The `isFull` method returns `True` if and only if the Stack is full.
 ```python
 # The stack is only full if the current size of the stack is equal to the capacity.
 # This means there are so many elements in the stack, that they completely use up
@@ -18,8 +20,9 @@ def isFull(self):
     return self.size() == self.capacity
 ```
 
-**Peek**
-The `Peek` method returns the element on the top of the Stack, without removing it.
+**Peek** 
+
+The `peek` method returns the element on the top of the Stack, without removing it.
 ```python
 # If the stack is empty, there is nothing to peek at, but if the stack has elements, return
 # the element on the top of the stack without deleting it.
@@ -29,3 +32,13 @@ def peek(self):
     else:
         return self.stack[self.pointer]
 ```
+Now you have seen this you can apply the following operations:
+- [x] test for full stack
+- [x] peek
+
+To understand the rest of the required methods complete [this worksheet](https://github.com/a-level-datastructures/a-level-datastructures.github.io/files/6057410/Stack_OOP_Exercise.pdf)!
+
+Now you have completed the worksheet you can apply the following operations:
+- [x] push
+- [x] pop
+- [x] test for  full stack
