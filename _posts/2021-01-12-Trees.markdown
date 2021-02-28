@@ -32,6 +32,7 @@ alt="Rooted Tree Explanation" width="240" height="180" border="10" /></a>
   * 2 clearly doesn't have any parents; nothing points to it!
   * The leafs `[2, 10, 5, 11, 4]` at the bottom of the tree have no descendants.
   * Picturing the below image as a 'family tree' makes it much easier to picture the parent child relationship.
+  
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Tree_%28computer_science%29.svg/1200px-Tree_%28computer_science%29.svg.png" alt="Tree Diagram" width="200"/>
 
 Now you know:
@@ -58,3 +59,6 @@ Now you are going to see a use for a tree first hand. Complete [this worksheet](
 Now you know:
 - [x] that a binary tree is a rooted tree in which each node has at most two children.
 - [x] some typical uses for rooted trees
+
+## Slides
+* [Trees](https://github.com/a-level-datastructures/a-level-datastructures.github.io/files/6057654/Trees.pdf)
