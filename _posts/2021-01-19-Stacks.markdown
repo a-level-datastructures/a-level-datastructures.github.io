@@ -7,6 +7,8 @@
   * test for full stack
 
 ---
+## Stack Methods
+
 Since you are going to implement all the other stack methods in the worksheet, I am only going to show you how to implement **Full** and **Peek** here.
 
 **Full**
@@ -35,6 +37,8 @@ def peek(self):
 Now you have seen this you can apply the following operations:
 - [x] test for full stack
 - [x] peek
+
+## Stack Worksheet
 
 To understand the rest of the required methods complete [this worksheet](https://github.com/a-level-datastructures/a-level-datastructures.github.io/files/6057410/Stack_OOP_Exercise.pdf)!
 
