@@ -72,3 +72,7 @@ def Dequeue(self):
         return self.queue[self.front]
         front += 1
 ```
+- [x] add an item to a linear queue
+- [x] remove an item from a linear queue
+- [x] test for an empty linear queue
+- [x] test for a full linear queue  
