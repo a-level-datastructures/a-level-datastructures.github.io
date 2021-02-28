@@ -100,3 +100,12 @@ def Enqueue(self, data):
 The Dequeue method will be the same. This is because the queue will always
 be sorted in accordance with the priorities as we call sort everytime an
 item is added to the queue.
+
+- [x] add an item to a priority queue
+- [x] remove an item from a priority queue
+- [x] test for an empty priority queue
+- [x] test for a full priority queue  
+
+---
+## Circular Queues
+Having seen the above implementations, complete [this worksheet](https://github.com/a-level-datastructures/a-level-datastructures.github.io/files/6057283/Queue_OOP_Exercise.pdf) to implement circular queues yourself!
