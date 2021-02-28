@@ -6,6 +6,16 @@
 * A rooted tree has parent-child relationships between nodes.
 * The root is the only node with no parent and all other nodes are descendants of the root.
 
+## Tree Definition
+A tree a tree is a connected, undirected graph with no cycles. This definition is useless on it's own, so lets go back over what each individual part means:
+* **Graph**: A graph is a diagram modelling between objects of a certain collection consisting of edges (lines) and vertices (dots)
+* **Undirected**: An undirected graph is a graph where all edges are bi-directional (i.e. you can travel both ways along them)
+* **Cycle**: A cycle is a circuit (a succession of edges that start and end at the same vertex) in which all the edges and all the vertices visited are different (apart from the start and end vertex)
+* **Connected**: A graph is connected if there is a path from any point to any other point in the graph (i.e. there are no vertices that aren't connected to anything)
+
+Congratulations, now you know:
+- [x] that a tree is a connected, undirected graph with no cycles
+
 ## Rooted Trees
 
 Rooted Trees have one vertex designated as the root. All the other vertexes are implicity directed away from the root.
@@ -13,7 +23,7 @@ This video here will give you a visual overview of what this definition actually
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=ihF26-HV5Mw
 " target="_blank"><img src="http://img.youtube.com/vi/ihF26-HV5Mw/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+alt="Rooted Tree Explanation" width="240" height="180" border="10" /></a>
 ---
 
 ## Parent Child Relationship
@@ -28,3 +38,23 @@ Now you know:
 - [x] that a rooted tree is a tree in which one vertex has been designated as the root.
 - [x] a rooted tree has parent-child relationships between nodes.
 - [x] the root is the only node with no parent and all other nodes are descendants of the root.
+
+## Binary Tree
+A Binary Tree is a rooted tree where each node has at most two children. Quickly watch this video to get a better understanding about what a binary tree is! You only need to know **the definition for a Binary Tree**, but the other bits of information in this video may be useful.
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=ykAbHA-bkKM
+" target="_blank"><img src="http://img.youtube.com/vi/ykAbHA-bkKM/0.jpg" 
+alt="Rooted Tree Explanation" width="240" height="180" border="10" /></a>
+
+---
+## Binary Search Trees
+Now you are going to see a use for a tree first hand. Complete [this worksheet](https://github.com/a-level-datastructures/a-level-datastructures.github.io/files/6057616/Tree_OOP_Exercise.pdf) implementing Binary Search Trees for yourself!
+
+## Other typical uses for rooted trees
+* Rooted trees can be used to structure the directories on your computer.
+* Rooted trees can be used to sort through data quickly.
+
+## Congratulations
+Now you know:
+- [x] that a binary tree is a rooted tree in which each node has at most two children.
+- [x] some typical uses for rooted trees
