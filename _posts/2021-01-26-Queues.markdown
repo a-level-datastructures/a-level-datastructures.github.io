@@ -109,3 +109,17 @@ item is added to the queue.
 ---
 ## Circular Queues
 Having seen the above implementations, complete [this worksheet](https://github.com/a-level-datastructures/a-level-datastructures.github.io/files/6057283/Queue_OOP_Exercise.pdf) to implement circular queues yourself!
+After you have done that:
+* Use your queue to store the names of 3 people you know
+* Remove two of those names
+* Add another two names
+---
+## Congratulations!
+Now you can:
+- [x] represent a queue in a programming languange without using the built in queue type
+- [x] use a queue in simple contexts
+
+## Slides
+[Linear and Circular Queues](https://github.com/a-level-datastructures/a-level-datastructures.github.io/files/6057318/Linear.and.Circular.Queues.pdf)
+
+[Priority Queues](https://github.com/a-level-datastructures/a-level-datastructures.github.io/files/6057314/Priority.Queues.pdf)
