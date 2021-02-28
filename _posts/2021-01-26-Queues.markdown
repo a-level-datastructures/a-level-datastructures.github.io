@@ -18,7 +18,8 @@ All queues have the following features in common:
   * This method takes no arguments and removes the item that is at the front of the queue and returns it
 * They all have two pointers
   * *Front*: This pointer shows the item to remove when *Dequeue* is called
-  * *Rear*: This pointer shows where the rear of the queue is *Enqueue* is called. 
+  * *Rear*: This pointer shows where the rear of the queue is *Enqueue* is called
+
 ---
 ## Linear Queues
 **Testing if the queue is Empty**
