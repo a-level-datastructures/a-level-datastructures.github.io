@@ -16,3 +16,8 @@ All queues have the following features in common:
   * This method takes a data item and adds it to the rear of the queue
 * A *Dequeue* method:
   * This method takes no arguments and removes the item that is at the front of the queue
+* They all have two pointers
+  * *Front*: This pointer shows the item to remove when *Dequeue* is called
+  * *Rear*: This pointer shows the next available free space to add in a data item when *Enqueue* is called 
+---
+## Linear Queues
