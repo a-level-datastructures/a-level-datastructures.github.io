@@ -18,5 +18,5 @@ This is just a rough guide about what you could do for revision. This is pretty 
 ## Day of the exam
   * It is the day of the exam. Congratulations, you have almost made it! Don't do any more past papers on this day, and instead spend a little bit of time **going over facts**.
   * Make sure to get a good nights sleep and eat a good breakfast. 
-  * I also wouldn't reccomend smashing a red bull right before. Some of the papers are **2 and a half hours**, so you will likely crash in the middle of the exam.
+  * I also wouldn't recommend smashing a red bull right before. Some of the papers are **2 and a half hours**, so you will likely crash in the middle of the exam.
   * Don't worry, if you have followed the above steps, you probably be as ready as you could ever be!
