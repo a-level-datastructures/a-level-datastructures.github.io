@@ -8,11 +8,13 @@ This is just a rough guide about what you could do for revision. This is pretty 
   * You should finish all the content with **one month to spare** before your exam begins.
   * Ask myself, or your teacher questions on anything you don't understand. I cannot emphasise enough how important it is **to clarify what you don't understand**.
   * If you do this, you should have a decent understanding of everything on the course before we move onto the next stage.
+
 ## Past Papers
   * You should have papers from **2016-2019**, as well as the specimen papers to complete. This is around **20 papers** including AS-Level papers, which you should complete again.
   * Complete **1-2 papers per day**, asking questions about answer answers you gave that were incorrect. Again I cannot emphasise **how important this is**. If you don't clarify your understanding, you won't do any better when a similar question comes up on your exam.
   * You should now have about **10-20 days** left before your exam. Spend this time practicing whatever skill you think is weakest. Whether that is the theory or the programming.
   * Save the most recent past papers for a few days before the exam. These will give you the most realistic idea about the style of the paper you are about to complete. It is also useful to save some past paper practice for closer to the exam.
+
 ## Day of the exam
   * It is the day of the exam. Congratulations, you have almost made it! Don't do any more past papers on this day, and instead spend a little bit of time **going over facts**.
   * Make sure to get a good nights sleep and eat a good breakfast. 
