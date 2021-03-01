@@ -1,6 +1,6 @@
 ## Key Resources 
 * [Craig & Dave](https://www.youtube.com/channel/UC0HzEBLlJxlrwBAHJ5S9JQg): **An incredible resource** for learning the theory. **Watch all these videos and take notes** and you will be set for the exam.
-* [Physics & Maths Tutor](https://www.physicsandmathstutor.com/computer-science-revision/a-level-aqa/): This is the best place to find past paper questions to practice. Make sure you complete all the past papers before the exam.
+* [Physics & Maths Tutor](https://www.physicsandmathstutor.com/computer-science-revision/a-level-aqa/): This is the best place to find past paper questions to practice. Make sure you complete all the past papers before the exam. Once you have completed all the AQA papers, complete the OCR papers, ignoring the questions that aren't on your syllabus. **A lot of past papers is one of the best ways to a good grade**.
 * [Array Questions](https://www.geeksforgeeks.org/top-50-array-coding-problems-for-interviews/): The Level 1 questions are very good practice for the pseudo code questions you will have in your exam. Try and complete a few. The more you do the better you will get.
 * [A-Level Specification](https://github.com/a-level-datastructures/a-level-datastructures.github.io/files/6062089/AQA-7516-7517-SP-2015.PDF): Use this checklist to ensure you understand everything you need to before the exam.
 ## Extra Curricular Resources
