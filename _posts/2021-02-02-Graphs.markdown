@@ -1,0 +1,46 @@
+## Lesson Aims:
+* Be aware of a graph as a data structure used to represent more complex relationships.
+* Be familiar with typical uses for graphs.
+* Be able to explain the terms:
+  * graph
+  * weighted graph
+  * vertex/node
+  * edge/arc
+  * undirected graph
+  * directed graph
+* Know how an adjacency matrix and an adjacency list may be used to represent a graph.
+* Be able to compare the use of adjacency matrices and adjacency lists.
+
+## Definitions
+* **Graph:** A graph is a diagram modelling between objects of a certain collection consisting of **edges** (lines) and **vertices** (dots)
+* **Weighted Graph:** A weighted graph has numerical values attached to its edges. This is useful for many reasons, for example if you want to express distance between vertices
+* **Vertex** A vertex is one of the dots that forms the graph
+* **Edge:** An edge is a line connecting two vertexes (dots) within the graph
+* **Undirected Graph:** An undirected graph is a graph where all the edges are **bidirectional**. This means that you can travel both ways along all the edges
+* **Directed Graph:** A directed graph is a graph where the edges are **unidirectional**. This means they are all like one way streets, and you can only travel one direction along them
+
+Now you know
+- [x] The neccessary definitions for graphs
+
+## Graph Uses
+Graphs can be used to model complex relationships, such as the following networks:
+* Navigation Systems
+* Data Transmission
+* Web Page Links
+* Social Media Trends
+
+Now you can state:
+- [x] typical uses for graphs.
+- [x] that graphs can be used as a data structure used to represent more complex relationships.
+
+## Adjacency Matrices and Adjacency Lists
+Watch this video, and go over the questions in the slides to get a good understanding for Adjacency Matrices and Adjacency Lists! Make sure to take notes.
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=PMPMDZqeipw
+" target="_blank"><img src="http://img.youtube.com/vi/PMPMDZqeipw/0.jpg" 
+alt="Rooted Tree Explanation" width="240" height="180" border="10" /></a>
+
+## Congratulations
+You can now:
+- [x] describe how an adjacency matrix and an adjacency list may be used to represent a graph.
+- [x] compare the use of adjacency matrices and adjacency lists.
