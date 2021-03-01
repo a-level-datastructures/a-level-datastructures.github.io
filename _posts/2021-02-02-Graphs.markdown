@@ -44,3 +44,10 @@ alt="Rooted Tree Explanation" width="240" height="180" border="10" /></a>
 You can now:
 - [x] describe how an adjacency matrix and an adjacency list may be used to represent a graph.
 - [x] compare the use of adjacency matrices and adjacency lists.
+
+## Slides
+[Graphs 1](https://github.com/a-level-datastructures/a-level-datastructures.github.io/files/6061728/Graphs.1.pdf)
+
+[Graphs 2](https://github.com/a-level-datastructures/a-level-datastructures.github.io/files/6061736/Graphs.2.pdf)
+
+
