@@ -1,0 +1,11 @@
+## Key Resources 
+* [Craig & Dave](https://www.youtube.com/channel/UC0HzEBLlJxlrwBAHJ5S9JQg): **An incredible resource** for learning the theory. **Watch all these videos and take notes** and you will be set for the exam.
+* [Physics & Maths Tutor](https://www.physicsandmathstutor.com/computer-science-revision/a-level-aqa/): This is the best place to find past paper questions to practice. Make sure you complete all the past papers before the exam.
+* [Array Questions](https://www.geeksforgeeks.org/top-50-array-coding-problems-for-interviews/): The Level 1 questions are very good practice for the pseudo code questions you will have in your exam. Try and complete a few. The more you do the better you will get.
+* [A-Level Specification](https://github.com/a-level-datastructures/a-level-datastructures.github.io/files/6062089/AQA-7516-7517-SP-2015.PDF): Use this checklist to ensure you understand everything you need to before the exam.
+## Extra Curricular Resources
+* [Crash Course Computer Science](https://www.youtube.com/watch?v=tpIctyqH29Q&list=PLH2l6uzC4UEW0s7-KewFLBC1D0l6XRfye&ab_channel=CrashCourse): This is a good resource for getting some more knowledge around Computer Science. This could help you in long essay questions when you are allowed to pull from your own general knowledge.
+* [W3 Schools](https://www.w3schools.com/): This is a great website to help you learn new coding languages and skills.
+* [Courseara](https://www.coursera.org/): You can get the free trial and get some certificates for free. This is great for fleshing out your personal statement if you are struggling for things to come up with.
+* [Computerphile](https://www.youtube.com/user/Computerphile): Another great Youtube Channel to give you some more background on Computer Science.
+* [Live Overflow](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w): This is a great youtube channel if you are intertested in 'Hacking'. I specifically recommend his introductory courses. Don't be afraid to pause and google things you don't understand. 
