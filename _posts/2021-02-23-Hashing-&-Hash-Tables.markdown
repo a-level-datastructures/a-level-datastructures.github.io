@@ -14,4 +14,11 @@ Now you've seen that, you should be able to:
 - [x] know what is meant by a collision and how collisions are handled using rehashing.
 - [x] understand the concept of a hash table and its uses.
 
-You should now get some hands on experience with hash tables by completing 
+## Exercise
+You should now get some hands on experience with hash tables by completing [this worksheet](https://github.com/a-level-datastructures/a-level-datastructures.github.io/files/6061613/Hash_Table_OOP_Exercise.pdf)!
+
+After Completing that you can now:
+- [x] apply simple hashing algorithms.
+
+## Slides
+[Hashing & Hash Tables](https://github.com/a-level-datastructures/a-level-datastructures.github.io/files/6061627/Hashing.pdf)
